@@ -1,4 +1,10 @@
 {
+  "_args": [
+    [
+      "strapi-plugin-content-manager@3.6.2",
+      "C:\\Users\\HP\\contact_book"
+    ]
+  ],
   "_from": "strapi-plugin-content-manager@3.6.2",
   "_id": "strapi-plugin-content-manager@3.6.2",
   "_inBundle": false,
@@ -24,8 +30,7 @@
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/strapi-plugin-content-manager/-/strapi-plugin-content-manager-3.6.2.tgz",
-  "_shasum": "3ac0b3e9d63d8eeb97d41cba82e91c40562d4122",
-  "_spec": "strapi-plugin-content-manager@3.6.2",
+  "_spec": "3.6.2",
   "_where": "C:\\Users\\HP\\contact_book",
   "author": {
     "name": "Strapi team",
@@ -35,7 +40,6 @@
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "@buffetjs/core": "3.3.6",
     "@buffetjs/custom": "3.3.6",
@@ -77,7 +81,6 @@
     "strapi-utils": "3.6.2",
     "yup": "^0.27.0"
   },
-  "deprecated": false,
   "description": "A powerful UI to easily manage your data.",
   "engines": {
     "node": ">=10.16.0 <=14.x.x",

@@ -1,4 +1,10 @@
 {
+  "_args": [
+    [
+      "strapi-plugin-documentation@3.6.2",
+      "C:\\Users\\HP\\contact_book"
+    ]
+  ],
   "_from": "strapi-plugin-documentation@3.6.2",
   "_id": "strapi-plugin-documentation@3.6.2",
   "_inBundle": false,
@@ -16,19 +22,16 @@
     "fetchSpec": "3.6.2"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/strapi-plugin-documentation/-/strapi-plugin-documentation-3.6.2.tgz",
-  "_shasum": "bb5024bb195525f2e7ca5879dc6d33f631ad9399",
-  "_spec": "strapi-plugin-documentation@3.6.2",
+  "_spec": "3.6.2",
   "_where": "C:\\Users\\HP\\contact_book",
   "author": {
     "name": "soupette",
     "email": "hi@strapi.io",
     "url": "https://strapi.io"
   },
-  "bundleDependencies": false,
   "contributors": [
     {
       "name": "soupette"
@@ -70,7 +73,6 @@
     "strapi-helper-plugin": "3.6.2",
     "swagger-ui-dist": "3.47.1"
   },
-  "deprecated": false,
   "description": "Create an OpenAPI Document and visualize your API with SWAGGER UI.",
   "engines": {
     "node": ">=10.16.0 <=14.x.x",

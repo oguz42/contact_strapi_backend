@@ -1,4 +1,10 @@
 {
+  "_args": [
+    [
+      "strapi-plugin-upload@3.6.2",
+      "C:\\Users\\HP\\contact_book"
+    ]
+  ],
   "_from": "strapi-plugin-upload@3.6.2",
   "_id": "strapi-plugin-upload@3.6.2",
   "_inBundle": false,
@@ -19,15 +25,13 @@
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/strapi-plugin-upload/-/strapi-plugin-upload-3.6.2.tgz",
-  "_shasum": "602c9afc19c04efb8068a82eee67ed4c79c55522",
-  "_spec": "strapi-plugin-upload@3.6.2",
+  "_spec": "3.6.2",
   "_where": "C:\\Users\\HP\\contact_book",
   "author": {
     "name": "Strapi team",
     "email": "hi@strapi.io",
     "url": "https://strapi.io"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "@buffetjs/core": "3.3.6",
     "@buffetjs/custom": "3.3.6",
@@ -59,7 +63,6 @@
     "stream-to-array": "^2.3.0",
     "uuid": "^3.2.1"
   },
-  "deprecated": false,
   "description": "Makes it easy to upload images and files to your Strapi Application.",
   "engines": {
     "node": ">=10.16.0 <=14.x.x",

@@ -1,4 +1,10 @@
 {
+  "_args": [
+    [
+      "strapi-plugin-users-permissions@3.6.2",
+      "C:\\Users\\HP\\contact_book"
+    ]
+  ],
   "_from": "strapi-plugin-users-permissions@3.6.2",
   "_id": "strapi-plugin-users-permissions@3.6.2",
   "_inBundle": false,
@@ -19,8 +25,7 @@
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/strapi-plugin-users-permissions/-/strapi-plugin-users-permissions-3.6.2.tgz",
-  "_shasum": "806a60193409726c938db469194b0c9dc87aaa35",
-  "_spec": "strapi-plugin-users-permissions@3.6.2",
+  "_spec": "3.6.2",
   "_where": "C:\\Users\\HP\\contact_book",
   "author": {
     "name": "Strapi team",
@@ -30,7 +35,6 @@
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "@buffetjs/core": "3.3.6",
     "@buffetjs/custom": "3.3.6",
@@ -59,7 +63,6 @@
     "strapi-utils": "3.6.2",
     "uuid": "^3.1.0"
   },
-  "deprecated": false,
   "description": "Protect your API with a full-authentication process based on JWT",
   "devDependencies": {
     "koa": "^2.13.1"
